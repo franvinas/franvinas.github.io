@@ -2,7 +2,7 @@
 
 <i class="fa fa-github"></i> [franvinas](https://github.com/franvinas)
 
-✉️ vinasfran@gmail.com
+✉️ [vinasfran@gmail.com](mailto:vinasfran@gmail.com)
 
 📎 resume: [english](https://github.com/franvinas/eng-resume.pdf) \| [spanish](https://github.com/franvinas/spa-resume.pdf)
 
