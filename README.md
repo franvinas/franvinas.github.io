@@ -4,4 +4,6 @@
 
  <i class="fa fa-envelope" style="font-size:20px;"></i> [vinasfran@gmail.com](mailto:vinasfran@gmail.com)
  
- <i class="fa fa-file" style="font-size:20px;"></i> resume: [english](https://github.com/franvinas/eng-resume.pdf) \| [spanish](https://github.com/franvinas/spa-resume.pdf)
+<!--  
+<i class="fa fa-file" style="font-size:20px;"></i> resume: [english](https://github.com/franvinas/eng-resume.pdf) \| [spanish](https://github.com/franvinas/spa-resume.pdf) 
+-->
